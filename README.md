@@ -1,4 +1,4 @@
-# Email-Spam-Classifier-Using-TFIDF-
+# Email-Spam-Classifier-Using-TFIDF
 Email Spam Classifier that is built using TF-IDF
 <p>
 ->The program classifies the spam mails using TF-IDF(Term Frequency - Inverse Document Frequency).
